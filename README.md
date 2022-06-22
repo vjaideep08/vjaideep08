@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vjaideep08
 - 👀 I’m interested in Java, Python
-- 🌱 I’m currently learning Machine Learning, Docker
+- 🌱 I’m currently learning kubernates
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me ...
 
